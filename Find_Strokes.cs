@@ -1,6 +1,18 @@
 public static void Main()
 	{
-   
+   /*
+Given an array of positive integers that represent a bar graph:
+Input: [1,2,5,4,2,4] (Array)
+	 _
+	| |_   _
+	| | | | |
+   _| | |_| |
+ _| | | | | |
+| |	| | | | |
+Output: 7 (Int) (Number of strokes required)
+How many horizontal paint strokes will be required to paint the complete bar graph. You can only paint one level horizontally at a time.
+If the number of strokes exceed 1,000,000,000 then return -1.
+*/
    /*
       1,2,5,4,2,4
       
